@@ -14,7 +14,7 @@
 
 API pentesting (Always <3)
 
-Online game Pentesting / Datamining on various engines
+Online game pentesting / Datamining on various engines
 
 Full reverse engineering of an API
 

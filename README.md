@@ -1,6 +1,6 @@
 <div align="center">
     
-# <img src="assets/kestrl.png" width="45" height="45" alt="Kestrl Icon" style="vertical-align: middle; margin-right: 10px;"> IronS1ghts - Kestrl
+# <img src="kestrl.png" width="45" height="45" alt="Kestrl Icon" style="vertical-align: middle; margin-right: 10px;"> IronS1ghts - Kestrl
     
 ### **Security Researcher** · **Web & Network Pentester**
     

@@ -84,6 +84,6 @@ So they may be inactive/missing for now
 
 <p align="center">
     <small>
-        *Always remember: The only truly secure system is one that is powered off, locked in a safe, and buried under two feet of concrete. And even then, I'd still check for hardware backdoors.*
+        *I'm sleepy*
     </small>
 </p>

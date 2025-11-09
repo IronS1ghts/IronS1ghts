@@ -14,11 +14,7 @@
 
 API pentesting (Always <3)
 
-Online game pentesting / Datamining on various engines
-
-Patching binaries to produce unexpected behavior
-
-Dynamic Binary Analysis
+Dynamic Binary Analysis / Patching
 
 3D models! 🥳
 

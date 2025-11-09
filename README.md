@@ -16,8 +16,6 @@ API pentesting (Always <3)
 
 Online game pentesting / Datamining on various engines
 
-Full reverse engineering of an API
-
 Patching binaries to produce unexpected behavior
 
 Dynamic Binary Analysis

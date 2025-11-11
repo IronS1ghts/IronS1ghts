@@ -40,7 +40,7 @@ Always Learning <3
 
 | Category | Skills & Tools | Badge |
 | :--- | :--- | :--- |
-| **Web App Pentesting** | Burp Suite + Caido ❤️, Fuzzing, API Security, SQL | [![Skill: Burp Suite](https://img.shields.io/badge/Burp%20Suit-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/) |
+| **Web App Pentesting** | Burp Suite + Caido ❤️, Fuzzing, API Security, SQL | [![Skill: Caido](https://img.shields.io/badge/Burp%20Suit-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)](https://https://caido.io//) |
 | **Network & Server** | Port Scanning (Nmap), Packet Analysis (Wireshark), Server & API Analysis | [![Skill: Nmap](https://img.shields.io/badge/Nmap-002D5E?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/) |
 | **Basic Binary Analysis** | Dynamic Binary Analysis (x64dbg), Static Analysis (Ghidra) | [![Skill: Basic Binary Analysis](https://img.shields.io/badge/x64dbg-4584F6?style=for-the-badge&logo=ida&logoColor=white)](https://www.hex-rays.com/products/ida/) |
 

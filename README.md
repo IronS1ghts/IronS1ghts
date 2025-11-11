@@ -66,10 +66,10 @@ Current learning goals include:
 Most of these accounts are under a new username
 So they may be inactive/missing for now 
     
-**GitHub** | **HackerOne** | **Twitter/X**
-:---: | :---: | :---:
-<a href="https://github.com/IronS1ghts" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a> | <a href="https://hackerone.com/kestrl?type=user" target="_blank"><img src="https://img.shields.io/badge/HackerOne-20B2AA?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Badge"></a> | <a href="https://x.com/Iron_S1ghts" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"></a>
-    
+**HackerOne** | **Twitter/X**
+:---: | :---:
+<a href="https://hackerone.com/kestrl?type=user" target="_blank"><img src="https://img.shields.io/badge/HackerOne-20B2AA?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Badge"></a> | <a href="https://x.com/Iron_S1ghts" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"></a>
+
 </p>
 
 <p align="center">My Website is currently **Under Development** <3</p>

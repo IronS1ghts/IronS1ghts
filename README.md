@@ -66,9 +66,9 @@ Current learning goals include:
 Most of these accounts are under a new username
 So they may be inactive/missing for now 
     
-**HackerOne** | **Twitter/X**
+**Twitter/X**
 :---: | :---:
-<a href="https://hackerone.com/kestrl?type=user" target="_blank"><img src="https://img.shields.io/badge/HackerOne-20B2AA?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Badge"></a> | <a href="https://x.com/Iron_S1ghts" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"></a>
+<a href="https://x.com/Iron_S1ghts" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"></a>
 
 </p>
 

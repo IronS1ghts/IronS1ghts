@@ -77,7 +77,4 @@ So they may be inactive/missing for now
 <br>
 
 <p align="center">
-    <small>
-        *I'm sleepy*
-    </small>
 </p>

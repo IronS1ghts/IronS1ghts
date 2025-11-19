@@ -62,12 +62,7 @@ Current learning goals include:
 ## 🌐 Connect
 
 <p align="center">
-
-Most of these accounts are under a new username
-So they may be inactive/missing for now 
     
-**Twitter/X**
-:---: | :---:
 <a href="https://x.com/Iron_S1ghts" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"></a>
 
 </p>

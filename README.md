@@ -64,10 +64,8 @@ Current learning goals include:
 <p align="center">
     
 <a href="https://x.com/Iron_S1ghts" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge"></a>
-
-</p>
-
-<p align="center">My Website is currently **Under Development** <3</p>
+&nbsp;
+<a href="https://irons1ghts.web.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Badge"></a>
 
 <br>
 

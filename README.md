@@ -12,7 +12,7 @@
 
 ## Current Working on...
 
-API pentesting (Always <3)
+Pentesting (Always <3)
 
 Dynamic Binary Analysis / Patching
 

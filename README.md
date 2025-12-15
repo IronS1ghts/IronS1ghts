@@ -8,31 +8,20 @@
     
 </div>
 
----
 
 ## Current Working on...
 
-Pentesting (Always <3)
+Offensive Security Research
 
-Dynamic Binary Analysis / Patching
-
-3D models! 🥳
-
-
------------------------------------------------------------------------------------------
-
-<- Imma put like a cool banner here or something, ignore this->
-
------------------------------------------------------------------------------------------
 
 
 ## 🔎 About Me
 
-**19-year-old Ethical Hacker** and **Security Enthusiast** 🖤
+**19-year-old Ethical Hacker** and **Security Enthusiast**
 
 I'm currently studying **Web & Network Penetration Testing**, but I actively enjoy diving into unfamiliar areas such as binary analysis and exploit development.
 
-Always Learning <3
+Always Learning!
 
 ---
 
@@ -40,22 +29,17 @@ Always Learning <3
 
 | Category | Skills & Tools | Badge |
 | :--- | :--- | :--- |
-| **Web App Pentesting** | Burp Suite + Caido ❤️, Fuzzing, API Security, SQL | [![Skill: Caido](https://img.shields.io/badge/Caido%20<3-FF6633?style=for-the-badge&logo=caido&logoColor=white)](https://https://caido.io//) |
+| **Web App Pentesting** | Burp Suite + Caido, Fuzzing, API Security, SQL | [![Skill: Caido](https://img.shields.io/badge/Caido-FF6633?style=for-the-badge&logo=caido&logoColor=white)](https://https://caido.io//) |
 | **Network & Server** | Port Scanning (Nmap), Packet Analysis (Wireshark), Server & API Analysis | [![Skill: Nmap](https://img.shields.io/badge/Nmap-002D5E?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/) |
-| **Basic Binary Analysis** | Dynamic Binary Analysis (x64dbg), Static Analysis (Ghidra) | [![Skill: Basic Binary Analysis](https://img.shields.io/badge/x64dbg-4584F6?style=for-the-badge&logo=ida&logoColor=white)](https://www.hex-rays.com/products/ida/) |
+| **Binary Analysis** | Dynamic Binary Analysis (x64dbg), Static Analysis (Ghidra) | [![Skill: Basic Binary Analysis](https://img.shields.io/badge/x64dbg-4584F6?style=for-the-badge&logo=ida&logoColor=white)](https://www.hex-rays.com/products/ida/) |
 
 ---
 
 ## 📈 What I'd like to learn
 
-I am always wanting to expand my knowledge and skills, soo, there's a lot of random side projects I work on lol.
+I am always wanting to expand my knowledge and skills as much as I can.
 
-Current learning goals include:
-
-*   **Database Security:** Diving deeper into SQL injection and how servers interact with a database,
-*   **Binary Reverse Engineering:** Gaining deeper understanding of assembly and static analysis.
-*   **Advanced Coding!!:** I'd really love to learn more coding languages, expanding my horizons outside of basic python.
-*   **Deeper Network Analysis:** Greater understanding of wireshark and packet analysis, Hacking into physical devices, exploring techinques for firewall and IDS evasion.
+*   **More offensive security tactics 👁️**
 
 ---
 
